@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  align-items: center;
+  background-color: #F9F9F9;
+  margin-left: 5%%;
 }
 
 .App-logo {
@@ -35,4 +38,56 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.div-top{
+  background-color: #F7DBF0;
+  color: #BEAEE2;
+  font-family: Arial;
+}
+
+.div-form{
+  text-align: center;
+  font-family: Arial;
+}
+
+.boton{
+  background-color: #CDF0EA;
+  border-color: #434e4c;
+  color: #564d6a;
+  border-radius: 10px;
+  height: 30px;
+  width: 75px;
+}
+
+.inputnum{
+  background-color: #CDF0EA;
+  border-color: #434e4c;
+  color: #564d6a;
+  border-radius: 10px;
+  height: 25px;
+  width: 250px;
+}
+
+.div-res{
+  background-color: #CDF0EA;
+  border-color: #434e4c;
+  color: #564d6a;
+  font-family: Arial;
+  text-align: center;
+  border-radius: 10px;
+  height: 250px;
+  width: 500px;
+}
+
+.div-cent{
+  text-align: center;
+  background-color: #CDF0EA;
+  border-color: #434e4c;
+  color: #564d6a;
+  font-family: Arial;
+  text-align: center;
+  border-radius: 10px;
+  height: 250px;
+  width: 500px;
 }
