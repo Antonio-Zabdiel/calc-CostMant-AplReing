@@ -49,7 +49,7 @@ function App() {
 
           <br/><br/>
 
-          <label>Costo actual de mantenimiento: </label>
+          <label>Tiempo de vida esperado del sistema: </label>
           <input type='number' id='L'  className="inputnum"></input>
 
           <br/><br/>
