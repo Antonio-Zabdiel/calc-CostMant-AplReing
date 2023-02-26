@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calcmantrein/static/css/main.7126e622.css",
-    "main.js": "/calcmantrein/static/js/main.1be77b8f.js",
+    "main.js": "/calcmantrein/static/js/main.b5be651c.js",
     "static/js/787.ac2c1ff1.chunk.js": "/calcmantrein/static/js/787.ac2c1ff1.chunk.js",
     "index.html": "/calcmantrein/index.html",
     "main.7126e622.css.map": "/calcmantrein/static/css/main.7126e622.css.map",
-    "main.1be77b8f.js.map": "/calcmantrein/static/js/main.1be77b8f.js.map",
+    "main.b5be651c.js.map": "/calcmantrein/static/js/main.b5be651c.js.map",
     "787.ac2c1ff1.chunk.js.map": "/calcmantrein/static/js/787.ac2c1ff1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7126e622.css",
-    "static/js/main.1be77b8f.js"
+    "static/js/main.b5be651c.js"
   ]
 }
